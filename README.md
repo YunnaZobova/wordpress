@@ -1,3 +1,3 @@
 # Юнна Зобова
 
-[wordpress](https://yunnazobova.github.io/wordpress/)-site
+[Wordpress](https://yunnazobova.github.io/wordpress/) - website
